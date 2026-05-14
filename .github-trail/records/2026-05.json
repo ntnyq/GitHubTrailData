@@ -1,0 +1,201 @@
+[
+  {
+    "id": "8db452c9-b442-4f55-a2c4-114fd34367d9",
+    "url": "https://github.com/ntnyq?tab=repositories",
+    "title": "Your Repositories",
+    "type": "profile",
+    "owner": "ntnyq",
+    "path": "/ntnyq",
+    "visitedAt": 1778755024336,
+    "duration": 4870
+  },
+  {
+    "id": "3c2335e2-ca32-460d-8190-a0a53273ae5a",
+    "url": "https://github.com/ntnyq/extract-comments-es",
+    "title": "ntnyq/extract-comments-es: :package: Extract comments from JS, JSX via js-tokens",
+    "type": "repo",
+    "owner": "ntnyq",
+    "repo": "extract-comments-es",
+    "path": "/",
+    "visitedAt": 1778755046343,
+    "duration": 8869
+  },
+  {
+    "id": "9d94bf3c-c2df-4290-a04e-8330eec1ad3c",
+    "url": "https://github.com/ntnyq/extract-comments-es/blob/main/package.json",
+    "title": "ntnyq/extract-comments-es: :package: Extract comments from JS, JSX via js-tokens",
+    "type": "code",
+    "owner": "ntnyq",
+    "repo": "extract-comments-es",
+    "path": "/ntnyq/extract-comments-es/blob/main/package.json",
+    "visitedAt": 1778755094234
+  },
+  {
+    "id": "e3c247e9-2587-4343-ad23-9af4730d91ee",
+    "url": "https://github.com/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen+author%3A%40me+archived%3Afalse+",
+    "title": "Issues",
+    "type": "other",
+    "path": "/issues",
+    "visitedAt": 1778755107066,
+    "duration": 5308
+  },
+  {
+    "id": "4253886e-ed58-4a70-958e-f6d5932691dc",
+    "url": "https://github.com/dashboard",
+    "title": "GitHub Dashboard",
+    "type": "profile",
+    "owner": "dashboard",
+    "path": "/dashboard",
+    "visitedAt": 1778755115456,
+    "duration": 3125
+  },
+  {
+    "id": "6651cffc-3803-4cb0-99bc-b3e09d0b3056",
+    "url": "https://github.com/aklinker1/zero-serialize-error/blob/main/.oxfmtrc.json",
+    "title": "zero-serialize-error/.oxfmtrc.json at main · aklinker1/zero-serialize-error",
+    "type": "code",
+    "owner": "aklinker1",
+    "repo": "zero-serialize-error",
+    "path": "/aklinker1/zero-serialize-error/blob/main/.oxfmtrc.json",
+    "visitedAt": 1778755123333
+  },
+  {
+    "id": "e027733f-2dec-487b-817d-beca3ed92645",
+    "url": "https://github.com/aklinker1/zero-serialize-error/tree/main",
+    "title": "zero-serialize-error/.oxfmtrc.json at main · aklinker1/zero-serialize-error",
+    "type": "code",
+    "owner": "aklinker1",
+    "repo": "zero-serialize-error",
+    "path": "/aklinker1/zero-serialize-error/tree/main",
+    "visitedAt": 1778755125509
+  },
+  {
+    "id": "c7421822-231f-4497-aa19-7c00ddf8a049",
+    "url": "https://github.com/aklinker1/zero-serialize-error/blob/main/README.md",
+    "title": "aklinker1/zero-serialize-error: Serialize and deserialize errors with zero dependencies",
+    "type": "code",
+    "owner": "aklinker1",
+    "repo": "zero-serialize-error",
+    "path": "/aklinker1/zero-serialize-error/blob/main/README.md",
+    "visitedAt": 1778755127507
+  },
+  {
+    "id": "805f134e-4cab-45e4-b894-e6c866aed967",
+    "url": "https://github.com/aklinker1",
+    "title": "aklinker1 (Aaron)",
+    "type": "profile",
+    "owner": "aklinker1",
+    "path": "/aklinker1",
+    "visitedAt": 1778755131613,
+    "duration": 4896
+  },
+  {
+    "id": "769fc36b-6af8-4140-b711-a31f87f8fff7",
+    "url": "https://github.com/aklinker1/zeta",
+    "title": "aklinker1/zeta: Composable, testable, OpenAPI-first backend framework with validation built-in",
+    "type": "repo",
+    "owner": "aklinker1",
+    "repo": "zeta",
+    "path": "/",
+    "visitedAt": 1778755137859,
+    "duration": 78386
+  },
+  {
+    "id": "f65751a5-f408-4960-85c2-9f4b12c6424c",
+    "url": "https://github.com/aklinker1",
+    "title": "aklinker1 (Aaron)",
+    "type": "profile",
+    "owner": "aklinker1",
+    "path": "/aklinker1",
+    "visitedAt": 1778755227523,
+    "duration": 119899
+  },
+  {
+    "id": "e7d02c90-784d-4f3e-b9c2-cb07a138a5fe",
+    "url": "https://github.com/ntnyq?tab=repositories",
+    "title": "Your Repositories",
+    "type": "profile",
+    "owner": "ntnyq",
+    "path": "/ntnyq",
+    "visitedAt": 1778755475359,
+    "duration": 3265
+  },
+  {
+    "id": "9d827279-6039-4c7e-9e3f-7eb49eab4515",
+    "url": "https://github.com/settings/profile",
+    "title": "Your profile",
+    "type": "other",
+    "path": "/settings/profile",
+    "visitedAt": 1778755482858,
+    "duration": 16550
+  },
+  {
+    "id": "5ae3f6a9-4de5-4dc3-8409-32c7149c905e",
+    "url": "https://github.com/settings/profile",
+    "title": "Your profile",
+    "type": "other",
+    "path": "/settings/profile",
+    "visitedAt": 1778755501472
+  },
+  {
+    "id": "39dce133-891d-44f8-be8c-db292bdcd460",
+    "url": "https://github.com/settings/security",
+    "title": "Your profile",
+    "type": "other",
+    "path": "/settings/security",
+    "visitedAt": 1778755529385,
+    "duration": 10678
+  },
+  {
+    "id": "d090d14a-43ca-432e-8643-66f0f3b0c220",
+    "url": "https://github.com/settings/accessibility",
+    "title": "Account security",
+    "type": "other",
+    "path": "/settings/accessibility",
+    "visitedAt": 1778755541191,
+    "duration": 25059
+  },
+  {
+    "id": "6cefb004-1fb4-44b5-8113-44b3fbb6e557",
+    "url": "https://github.com/settings/appearance",
+    "title": "Accessibility",
+    "type": "other",
+    "path": "/settings/appearance",
+    "visitedAt": 1778755543756
+  },
+  {
+    "id": "5b9d3b42-bb80-4c71-8ef1-d4e0c88d9faf",
+    "url": "https://github.com/settings/admin",
+    "title": "Appearance",
+    "type": "other",
+    "path": "/settings/admin",
+    "visitedAt": 1778755545064
+  },
+  {
+    "id": "bfa64525-2cfb-4aec-9e8d-be606706e636",
+    "url": "https://github.com/settings/personal-access-tokens/new",
+    "title": "Confirm access",
+    "type": "other",
+    "path": "/settings/personal-access-tokens/new",
+    "visitedAt": 1778755634880,
+    "duration": 16185
+  },
+  {
+    "id": "c43a51da-42fb-4675-bfa8-7c2c1520c698",
+    "url": "https://github.com/settings/personal-access-tokens/new",
+    "title": "New Fine-grained Personal Access Token",
+    "type": "other",
+    "path": "/settings/personal-access-tokens/new",
+    "visitedAt": 1778755652603,
+    "duration": 75923
+  },
+  {
+    "id": "91971419-35a5-4413-abe2-6d5ce467bdbf",
+    "url": "https://github.com/settings/personal-access-tokens",
+    "title": "Fine-grained Personal Access Tokens",
+    "type": "other",
+    "path": "/settings/personal-access-tokens",
+    "visitedAt": 1778755739439,
+    "duration": 4156
+  }
+]
