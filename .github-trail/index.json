@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "appVersion": "0.0.0",
+  "granularity": "monthly",
+  "lastSyncAt": 1778839958131,
+  "lastOrganizeAt": 0,
+  "files": {
+    "2026-05": {
+      "path": ".github-trail/records/2026-05.json",
+      "type": "records",
+      "period": "2026-05",
+      "recordCount": 220,
+      "firstVisitAt": 1778755024336,
+      "lastVisitAt": 1778839893746,
+      "updatedAt": 1778839958131
+    }
+  },
+  "totalRecords": 220
+}
