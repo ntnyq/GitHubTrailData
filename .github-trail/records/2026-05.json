@@ -7,7 +7,9 @@
     "owner": "ntnyq",
     "path": "/ntnyq",
     "visitedAt": 1778755024336,
-    "duration": 4870
+    "duration": 4870,
+    "tags": [],
+    "categories": []
   },
   {
     "id": "3c2335e2-ca32-460d-8190-a0a53273ae5a",
@@ -18,7 +20,9 @@
     "repo": "extract-comments-es",
     "path": "/",
     "visitedAt": 1778755046343,
-    "duration": 8869
+    "duration": 8869,
+    "tags": [],
+    "categories": []
   },
   {
     "id": "9d94bf3c-c2df-4290-a04e-8330eec1ad3c",
@@ -28,7 +32,10 @@
     "owner": "ntnyq",
     "repo": "extract-comments-es",
     "path": "/ntnyq/extract-comments-es/blob/main/package.json",
-    "visitedAt": 1778755094234
+    "visitedAt": 1778755094234,
+    "tags": [],
+    "duration": 0,
+    "categories": []
   },
   {
     "id": "e3c247e9-2587-4343-ad23-9af4730d91ee",
@@ -37,7 +44,9 @@
     "type": "other",
     "path": "/issues",
     "visitedAt": 1778755107066,
-    "duration": 5308
+    "duration": 5308,
+    "tags": [],
+    "categories": []
   },
   {
     "id": "4253886e-ed58-4a70-958e-f6d5932691dc",
@@ -47,7 +56,9 @@
     "owner": "dashboard",
     "path": "/dashboard",
     "visitedAt": 1778755115456,
-    "duration": 3125
+    "duration": 3125,
+    "tags": [],
+    "categories": []
   },
   {
     "id": "6651cffc-3803-4cb0-99bc-b3e09d0b3056",
@@ -57,7 +68,10 @@
     "owner": "aklinker1",
     "repo": "zero-serialize-error",
     "path": "/aklinker1/zero-serialize-error/blob/main/.oxfmtrc.json",
-    "visitedAt": 1778755123333
+    "visitedAt": 1778755123333,
+    "tags": [],
+    "duration": 0,
+    "categories": []
   },
   {
     "id": "e027733f-2dec-487b-817d-beca3ed92645",
@@ -67,7 +81,10 @@
     "owner": "aklinker1",
     "repo": "zero-serialize-error",
     "path": "/aklinker1/zero-serialize-error/tree/main",
-    "visitedAt": 1778755125509
+    "visitedAt": 1778755125509,
+    "tags": [],
+    "duration": 0,
+    "categories": []
   },
   {
     "id": "c7421822-231f-4497-aa19-7c00ddf8a049",
@@ -77,7 +94,10 @@
     "owner": "aklinker1",
     "repo": "zero-serialize-error",
     "path": "/aklinker1/zero-serialize-error/blob/main/README.md",
-    "visitedAt": 1778755127507
+    "visitedAt": 1778755127507,
+    "tags": [],
+    "duration": 0,
+    "categories": []
   },
   {
     "id": "805f134e-4cab-45e4-b894-e6c866aed967",
@@ -87,7 +107,9 @@
     "owner": "aklinker1",
     "path": "/aklinker1",
     "visitedAt": 1778755131613,
-    "duration": 4896
+    "duration": 4896,
+    "tags": [],
+    "categories": []
   },
   {
     "id": "769fc36b-6af8-4140-b711-a31f87f8fff7",
@@ -98,7 +120,9 @@
     "repo": "zeta",
     "path": "/",
     "visitedAt": 1778755137859,
-    "duration": 78386
+    "duration": 78386,
+    "tags": [],
+    "categories": []
   },
   {
     "id": "f65751a5-f408-4960-85c2-9f4b12c6424c",
@@ -108,7 +132,9 @@
     "owner": "aklinker1",
     "path": "/aklinker1",
     "visitedAt": 1778755227523,
-    "duration": 119899
+    "duration": 121021,
+    "tags": [],
+    "categories": []
   },
   {
     "id": "e7d02c90-784d-4f3e-b9c2-cb07a138a5fe",
@@ -118,7 +144,9 @@
     "owner": "ntnyq",
     "path": "/ntnyq",
     "visitedAt": 1778755475359,
-    "duration": 3265
+    "duration": 3265,
+    "tags": [],
+    "categories": []
   },
   {
     "id": "9d827279-6039-4c7e-9e3f-7eb49eab4515",
@@ -127,7 +155,9 @@
     "type": "other",
     "path": "/settings/profile",
     "visitedAt": 1778755482858,
-    "duration": 16550
+    "duration": 16550,
+    "tags": [],
+    "categories": []
   },
   {
     "id": "5ae3f6a9-4de5-4dc3-8409-32c7149c905e",
@@ -135,7 +165,10 @@
     "title": "Your profile",
     "type": "other",
     "path": "/settings/profile",
-    "visitedAt": 1778755501472
+    "visitedAt": 1778755501472,
+    "tags": [],
+    "duration": 0,
+    "categories": []
   },
   {
     "id": "39dce133-891d-44f8-be8c-db292bdcd460",
@@ -144,7 +177,9 @@
     "type": "other",
     "path": "/settings/security",
     "visitedAt": 1778755529385,
-    "duration": 10678
+    "duration": 10678,
+    "tags": [],
+    "categories": []
   },
   {
     "id": "d090d14a-43ca-432e-8643-66f0f3b0c220",
@@ -153,7 +188,9 @@
     "type": "other",
     "path": "/settings/accessibility",
     "visitedAt": 1778755541191,
-    "duration": 25059
+    "duration": 25059,
+    "tags": [],
+    "categories": []
   },
   {
     "id": "6cefb004-1fb4-44b5-8113-44b3fbb6e557",
@@ -161,7 +198,10 @@
     "title": "Accessibility",
     "type": "other",
     "path": "/settings/appearance",
-    "visitedAt": 1778755543756
+    "visitedAt": 1778755543756,
+    "tags": [],
+    "duration": 0,
+    "categories": []
   },
   {
     "id": "5b9d3b42-bb80-4c71-8ef1-d4e0c88d9faf",
@@ -169,7 +209,10 @@
     "title": "Appearance",
     "type": "other",
     "path": "/settings/admin",
-    "visitedAt": 1778755545064
+    "visitedAt": 1778755545064,
+    "tags": [],
+    "duration": 0,
+    "categories": []
   },
   {
     "id": "bfa64525-2cfb-4aec-9e8d-be606706e636",
@@ -178,7 +221,9 @@
     "type": "other",
     "path": "/settings/personal-access-tokens/new",
     "visitedAt": 1778755634880,
-    "duration": 16185
+    "duration": 16185,
+    "tags": [],
+    "categories": []
   },
   {
     "id": "c43a51da-42fb-4675-bfa8-7c2c1520c698",
@@ -187,7 +232,9 @@
     "type": "other",
     "path": "/settings/personal-access-tokens/new",
     "visitedAt": 1778755652603,
-    "duration": 75923
+    "duration": 75923,
+    "tags": [],
+    "categories": []
   },
   {
     "id": "91971419-35a5-4413-abe2-6d5ce467bdbf",
@@ -196,6 +243,717 @@
     "type": "other",
     "path": "/settings/personal-access-tokens",
     "visitedAt": 1778755739439,
-    "duration": 4156
+    "duration": 4978,
+    "tags": [],
+    "categories": []
+  },
+  {
+    "id": "605c048a-6d8b-4f45-8cd2-59f84c08215e",
+    "url": "https://github.com/ntnyq?tab=repositories",
+    "title": "Your Repositories",
+    "type": "profile",
+    "owner": "ntnyq",
+    "path": "/ntnyq",
+    "visitedAt": 1778755777987,
+    "duration": 7159
+  },
+  {
+    "id": "22e9bcfc-2348-4118-bda8-a9bdd0594930",
+    "url": "https://github.com/ntnyq/GitHubTrailData",
+    "title": "ntnyq/GitHubTrailData",
+    "type": "repo",
+    "owner": "ntnyq",
+    "repo": "GitHubTrailData",
+    "path": "/",
+    "visitedAt": 1778755783969,
+    "duration": 30002
+  },
+  {
+    "id": "58faf6e2-24b1-4d48-9c7e-b9f0681cd504",
+    "url": "https://github.com/ntnyq/GitHubTrailData/tree/main/.github-trail/records",
+    "title": "ntnyq/GitHubTrailData",
+    "type": "code",
+    "owner": "ntnyq",
+    "repo": "GitHubTrailData",
+    "path": "/ntnyq/GitHubTrailData/tree/main/.github-trail/records",
+    "visitedAt": 1778755785560
+  },
+  {
+    "id": "bddeaa91-47b4-4a46-a8e1-d7291ba40d64",
+    "url": "https://github.com/ntnyq/GitHubTrailData/blob/main/.github-trail/records/2026-05.json",
+    "title": "GitHubTrailData/.github-trail/records at main · ntnyq/GitHubTrailData",
+    "type": "code",
+    "owner": "ntnyq",
+    "repo": "GitHubTrailData",
+    "path": "/ntnyq/GitHubTrailData/blob/main/.github-trail/records/2026-05.json",
+    "visitedAt": 1778755787175
+  },
+  {
+    "id": "339d6c5b-6d59-42bb-89ef-fb3072f56f54",
+    "url": "https://github.com/ntnyq/GitHubTrailData/tree/main/.github-trail",
+    "title": "GitHubTrailData/.github-trail/records/2026-05.json at main · ntnyq/GitHubTrailData",
+    "type": "code",
+    "owner": "ntnyq",
+    "repo": "GitHubTrailData",
+    "path": "/ntnyq/GitHubTrailData/tree/main/.github-trail",
+    "visitedAt": 1778755792663
+  },
+  {
+    "id": "2f634b8a-f4bb-4016-b1fc-eb18612a2c52",
+    "url": "https://github.com/ntnyq/GitHubTrailData/tree/main",
+    "title": "GitHubTrailData/.github-trail at main · ntnyq/GitHubTrailData",
+    "type": "code",
+    "owner": "ntnyq",
+    "repo": "GitHubTrailData",
+    "path": "/ntnyq/GitHubTrailData/tree/main",
+    "visitedAt": 1778755794706
+  },
+  {
+    "id": "cda53a8f-6945-4f59-a496-64da7d743e3c",
+    "url": "https://github.com/ntnyq/GitHubTrailData/tree/main/.github-trail/records",
+    "title": "ntnyq/GitHubTrailData",
+    "type": "code",
+    "owner": "ntnyq",
+    "repo": "GitHubTrailData",
+    "path": "/ntnyq/GitHubTrailData/tree/main/.github-trail/records",
+    "visitedAt": 1778755801925
+  },
+  {
+    "id": "72d9e70a-ece3-4d17-aa69-6dc2fbe526cd",
+    "url": "https://github.com/ntnyq/GitHubTrailData/blob/main/.github-trail/records/2026-05.json",
+    "title": "GitHubTrailData/.github-trail/records at main · ntnyq/GitHubTrailData",
+    "type": "code",
+    "owner": "ntnyq",
+    "repo": "GitHubTrailData",
+    "path": "/ntnyq/GitHubTrailData/blob/main/.github-trail/records/2026-05.json",
+    "visitedAt": 1778755803047
+  },
+  {
+    "id": "7b19b817-0df8-4a39-90d3-c85197320ad6",
+    "url": "https://github.com/ntnyq/GitHubTrailData/tree/main/.github-trail",
+    "title": "GitHubTrailData/.github-trail/records at main · ntnyq/GitHubTrailData",
+    "type": "code",
+    "owner": "ntnyq",
+    "repo": "GitHubTrailData",
+    "path": "/ntnyq/GitHubTrailData/tree/main/.github-trail",
+    "visitedAt": 1778755805353
+  },
+  {
+    "id": "04bac386-aafa-4d9f-94fd-34cdc8dabc5f",
+    "url": "https://github.com/ntnyq/GitHubTrailData/tree/main",
+    "title": "GitHubTrailData/.github-trail at main · ntnyq/GitHubTrailData",
+    "type": "code",
+    "owner": "ntnyq",
+    "repo": "GitHubTrailData",
+    "path": "/ntnyq/GitHubTrailData/tree/main",
+    "visitedAt": 1778755806311
+  },
+  {
+    "id": "758eaa09-806a-4bf8-b19f-aad8d54eb290",
+    "url": "https://github.com/ntnyq/GitHubTrailData/tree/main/.github-trail/records",
+    "title": "ntnyq/GitHubTrailData",
+    "type": "code",
+    "owner": "ntnyq",
+    "repo": "GitHubTrailData",
+    "path": "/ntnyq/GitHubTrailData/tree/main/.github-trail/records",
+    "visitedAt": 1778755807818
+  },
+  {
+    "id": "4165c3a6-fe68-4d30-9bf7-07eabc7ba0f5",
+    "url": "https://github.com/ntnyq/GitHubTrailData/blob/main/.github-trail/records/2026-05.json",
+    "title": "GitHubTrailData/.github-trail/records at main · ntnyq/GitHubTrailData",
+    "type": "code",
+    "owner": "ntnyq",
+    "repo": "GitHubTrailData",
+    "path": "/ntnyq/GitHubTrailData/blob/main/.github-trail/records/2026-05.json",
+    "visitedAt": 1778755808789
+  },
+  {
+    "id": "6ed26703-2e2b-4c57-9f9e-193e01bf98b1",
+    "url": "https://github.com/ntnyq/GitHubTrailData/tree/main",
+    "title": "GitHubTrailData/.github-trail/records/2026-05.json at main · ntnyq/GitHubTrailData",
+    "type": "code",
+    "owner": "ntnyq",
+    "repo": "GitHubTrailData",
+    "path": "/ntnyq/GitHubTrailData/tree/main",
+    "visitedAt": 1778755828879
+  },
+  {
+    "id": "b0193a76-0217-4772-957d-ea78ecb110a7",
+    "url": "https://github.com/ntnyq/GitHubTrailData",
+    "title": "ntnyq/GitHubTrailData",
+    "type": "repo",
+    "owner": "ntnyq",
+    "repo": "GitHubTrailData",
+    "path": "/",
+    "visitedAt": 1778755831625,
+    "duration": 49435
+  },
+  {
+    "id": "fcace5d1-100e-4e5f-aa34-89c58d90e33d",
+    "url": "https://github.com/ntnyq/GitHubTrailData",
+    "title": "ntnyq/GitHubTrailData",
+    "type": "repo",
+    "owner": "ntnyq",
+    "repo": "GitHubTrailData",
+    "path": "/",
+    "visitedAt": 1778755839932,
+    "duration": 2939
+  },
+  {
+    "id": "7ca2f408-5584-4c65-a709-30c33c1dcecb",
+    "url": "https://github.com/ntnyq/GitHubTrailData/commits/main/",
+    "title": "Commits · ntnyq/GitHubTrailData",
+    "type": "commit",
+    "owner": "ntnyq",
+    "repo": "GitHubTrailData",
+    "path": "/ntnyq/GitHubTrailData/commits/main/",
+    "visitedAt": 1778755844456,
+    "duration": 1926
+  },
+  {
+    "id": "40754186-6561-42aa-a774-99c99f9fcfac",
+    "url": "https://github.com/ntnyq?tab=repositories",
+    "title": "Your Repositories",
+    "type": "profile",
+    "owner": "ntnyq",
+    "path": "/ntnyq",
+    "visitedAt": 1778755889666,
+    "duration": 4245
+  },
+  {
+    "id": "1d6a53f7-74e0-427d-a793-ae8e706a0746",
+    "url": "https://github.com/ntnyq/GitHubTrailData",
+    "title": "ntnyq/GitHubTrailData",
+    "type": "repo",
+    "owner": "ntnyq",
+    "repo": "GitHubTrailData",
+    "path": "/",
+    "visitedAt": 1778755902888,
+    "duration": 3483
+  },
+  {
+    "id": "4ce60d08-4c35-48ae-bde9-f0e2b6af1020",
+    "url": "https://github.com/ntnyq?tab=repositories",
+    "title": "Your Repositories",
+    "type": "profile",
+    "owner": "ntnyq",
+    "path": "/ntnyq",
+    "visitedAt": 1778755910377
+  },
+  {
+    "id": "ba50e450-07e3-4450-bbfa-55f7c358d94f",
+    "url": "https://github.com/ntnyq?tab=repositories",
+    "title": "Your Repositories",
+    "type": "profile",
+    "owner": "ntnyq",
+    "path": "/ntnyq",
+    "visitedAt": 1778755915969,
+    "duration": 1801
+  },
+  {
+    "id": "251a7c1d-629c-49ca-a048-04ffb2bef663",
+    "url": "https://github.com/ntnyq/GitHubTrailData",
+    "title": "ntnyq/GitHubTrailData",
+    "type": "repo",
+    "owner": "ntnyq",
+    "repo": "GitHubTrailData",
+    "path": "/",
+    "visitedAt": 1778756116432
+  },
+  {
+    "id": "bedbaada-2987-4e1a-9f2e-2ea5024c2481",
+    "url": "https://github.com/ntnyq/GitHubTrailData/tree/main/.github-trail/records",
+    "title": "ntnyq/GitHubTrailData",
+    "type": "code",
+    "owner": "ntnyq",
+    "repo": "GitHubTrailData",
+    "path": "/ntnyq/GitHubTrailData/tree/main/.github-trail/records",
+    "visitedAt": 1778756117301
+  },
+  {
+    "id": "52efa795-f5be-419d-b4af-eb2f40144310",
+    "url": "https://github.com/ntnyq/GitHubTrailData/blob/main/.github-trail/records/2026-05.json",
+    "title": "GitHubTrailData/.github-trail/records at main · ntnyq/GitHubTrailData",
+    "type": "code",
+    "owner": "ntnyq",
+    "repo": "GitHubTrailData",
+    "path": "/ntnyq/GitHubTrailData/blob/main/.github-trail/records/2026-05.json",
+    "visitedAt": 1778756118758
+  },
+  {
+    "id": "850a80ee-466b-4c8c-bd5a-0f2fb18e8ed2",
+    "url": "https://github.com/ntnyq/GitHubTrailData",
+    "title": "GitHubTrailData/.github-trail/records/2026-05.json at main · ntnyq/GitHubTrailData",
+    "type": "repo",
+    "owner": "ntnyq",
+    "repo": "GitHubTrailData",
+    "path": "/",
+    "visitedAt": 1778756131683,
+    "duration": 19122
+  },
+  {
+    "id": "e1fb89f5-ee4e-4b94-b32d-fbc1f6b97a3f",
+    "url": "https://github.com/ntnyq/GitHubTrailData/tree/main/.github-trail/records",
+    "title": "GitHubTrailData/.github-trail/records at main · ntnyq/GitHubTrailData",
+    "type": "code",
+    "owner": "ntnyq",
+    "repo": "GitHubTrailData",
+    "path": "/ntnyq/GitHubTrailData/tree/main/.github-trail/records",
+    "visitedAt": 1778756188474,
+    "duration": 1236
+  },
+  {
+    "id": "c6f06daf-d099-49e3-8e6a-319457cc2b2d",
+    "url": "https://github.com/ntnyq/GitHubTrailData/blob/main/.github-trail/records/2026-05.json",
+    "title": "GitHubTrailData/.github-trail/records/2026-05.json at main · ntnyq/GitHubTrailData",
+    "type": "code",
+    "owner": "ntnyq",
+    "repo": "GitHubTrailData",
+    "path": "/ntnyq/GitHubTrailData/blob/main/.github-trail/records/2026-05.json",
+    "visitedAt": 1778756194167,
+    "duration": 1030
+  },
+  {
+    "id": "3cba911b-eb4d-40f5-9c36-9c12ad114436",
+    "url": "https://github.com/ntnyq/GitHubTrailData",
+    "title": "ntnyq/GitHubTrailData",
+    "type": "repo",
+    "owner": "ntnyq",
+    "repo": "GitHubTrailData",
+    "path": "/",
+    "visitedAt": 1778756254749,
+    "duration": 200564
+  },
+  {
+    "id": "f1be05a4-ac7c-4f69-bea8-9902ac8a922c",
+    "url": "https://github.com/ntnyq/GitHubTrailData/tree/main/.github-trail/records",
+    "title": "ntnyq/GitHubTrailData",
+    "type": "code",
+    "owner": "ntnyq",
+    "repo": "GitHubTrailData",
+    "path": "/ntnyq/GitHubTrailData/tree/main/.github-trail/records",
+    "visitedAt": 1778756256224
+  },
+  {
+    "id": "b59bbc27-e5d9-4de7-a46d-91ccdc1bf600",
+    "url": "https://github.com/ntnyq/GitHubTrailData/blob/main/.github-trail/records/2026-05.json",
+    "title": "GitHubTrailData/.github-trail/records at main · ntnyq/GitHubTrailData",
+    "type": "code",
+    "owner": "ntnyq",
+    "repo": "GitHubTrailData",
+    "path": "/ntnyq/GitHubTrailData/blob/main/.github-trail/records/2026-05.json",
+    "visitedAt": 1778756257513
+  },
+  {
+    "id": "7ec2c621-b4dd-41fd-a22c-a153c323b2da",
+    "url": "https://github.com/ntnyq/GitHubTrailData/tree/main/.github-trail",
+    "title": "GitHubTrailData/.github-trail/records/2026-05.json at main · ntnyq/GitHubTrailData",
+    "type": "code",
+    "owner": "ntnyq",
+    "repo": "GitHubTrailData",
+    "path": "/ntnyq/GitHubTrailData/tree/main/.github-trail",
+    "visitedAt": 1778756259527
+  },
+  {
+    "id": "656abfdb-4308-4424-aac9-fdf3053a8405",
+    "url": "https://github.com/ntnyq/GitHubTrailData/tree/main",
+    "title": "GitHubTrailData/.github-trail/records at main · ntnyq/GitHubTrailData",
+    "type": "code",
+    "owner": "ntnyq",
+    "repo": "GitHubTrailData",
+    "path": "/ntnyq/GitHubTrailData/tree/main",
+    "visitedAt": 1778756262817
+  },
+  {
+    "id": "48086c15-f279-415b-9e3c-3f25735a83b8",
+    "url": "https://github.com/ntnyq/GitHubTrailData/tree/main/.github-trail/records",
+    "title": "ntnyq/GitHubTrailData",
+    "type": "code",
+    "owner": "ntnyq",
+    "repo": "GitHubTrailData",
+    "path": "/ntnyq/GitHubTrailData/tree/main/.github-trail/records",
+    "visitedAt": 1778756263979
+  },
+  {
+    "id": "61d9244e-4634-4a2f-b532-a6337a5c6736",
+    "url": "https://github.com/ntnyq/GitHubTrailData/blob/main/.github-trail/records/2026-05.json",
+    "title": "GitHubTrailData/.github-trail/records at main · ntnyq/GitHubTrailData",
+    "type": "code",
+    "owner": "ntnyq",
+    "repo": "GitHubTrailData",
+    "path": "/ntnyq/GitHubTrailData/blob/main/.github-trail/records/2026-05.json",
+    "visitedAt": 1778756264841
+  },
+  {
+    "id": "07b46edf-ac09-484d-aca0-e4d1c5d8aba1",
+    "url": "https://github.com/ntnyq/github-trail",
+    "title": "Page not found",
+    "type": "repo",
+    "owner": "ntnyq",
+    "repo": "github-trail",
+    "path": "/",
+    "visitedAt": 1778757678053,
+    "duration": 8811
+  },
+  {
+    "id": "4b06ff84-b262-4e53-970d-dc6ba6dee0d6",
+    "url": "https://github.com/ntnyq?tab=repositories",
+    "title": "Your Repositories",
+    "type": "profile",
+    "owner": "ntnyq",
+    "path": "/ntnyq",
+    "visitedAt": 1778757795620,
+    "duration": 19078
+  },
+  {
+    "id": "2cac71c2-849a-4ec4-b35d-093086cea0d7",
+    "url": "https://github.com/ntnyq/GitHubTrail",
+    "title": "ntnyq/GitHubTrail: :apple: GitHub trail.",
+    "type": "repo",
+    "owner": "ntnyq",
+    "repo": "GitHubTrail",
+    "path": "/",
+    "visitedAt": 1778757812572,
+    "duration": 3417
+  },
+  {
+    "id": "a8122712-c491-45b2-8c43-da8b1dc03148",
+    "url": "https://github.com/ntnyq/GitHubTrail/commits/main/",
+    "title": "Commits · ntnyq/GitHubTrail",
+    "type": "commit",
+    "owner": "ntnyq",
+    "repo": "GitHubTrail",
+    "path": "/ntnyq/GitHubTrail/commits/main/",
+    "visitedAt": 1778757819546,
+    "duration": 3399
+  },
+  {
+    "id": "fa89cad4-4b1d-4c00-87a0-7f4223951838",
+    "url": "https://github.com/ntnyq",
+    "title": "ntnyq (ntnyq)",
+    "type": "profile",
+    "owner": "ntnyq",
+    "path": "/ntnyq",
+    "visitedAt": 1778757827707,
+    "duration": 8990
+  },
+  {
+    "id": "74db3473-937e-495a-9e4b-5b46360a6bd2",
+    "url": "https://github.com/ntnyq?tab=repositories&type=source",
+    "title": "ntnyq (ntnyq)",
+    "type": "profile",
+    "owner": "ntnyq",
+    "path": "/ntnyq",
+    "visitedAt": 1778757828384
+  },
+  {
+    "id": "22a7bb97-ba6a-4442-bd21-177f732c06b3",
+    "url": "https://github.com/ntnyq/GitHubTrailData",
+    "title": "ntnyq/GitHubTrailData",
+    "type": "repo",
+    "owner": "ntnyq",
+    "repo": "GitHubTrailData",
+    "path": "/",
+    "visitedAt": 1778757834420,
+    "duration": 9323
+  },
+  {
+    "id": "0b7eefa7-ccef-4d2f-bb5c-fd7229f955f1",
+    "url": "https://github.com/ntnyq/GitHubTrailData",
+    "title": "ntnyq/GitHubTrailData",
+    "type": "repo",
+    "owner": "ntnyq",
+    "repo": "GitHubTrailData",
+    "path": "/",
+    "visitedAt": 1778758121475,
+    "duration": 168788
+  },
+  {
+    "id": "91df3312-54d7-4f18-af03-ea155f93c952",
+    "url": "https://github.com/ntnyq/GitHubTrailData",
+    "title": "ntnyq/GitHubTrailData",
+    "type": "repo",
+    "owner": "ntnyq",
+    "repo": "GitHubTrailData",
+    "path": "/",
+    "visitedAt": 1778807433160
+  },
+  {
+    "id": "3dd3c803-1df3-43d6-8f7e-95e6b7646131",
+    "url": "https://github.com/ntnyq?tab=repositories",
+    "title": "Your Repositories",
+    "type": "profile",
+    "owner": "ntnyq",
+    "path": "/ntnyq",
+    "visitedAt": 1778807559201,
+    "duration": 18232
+  },
+  {
+    "id": "ff08870a-d7e2-4a8d-a5d0-7ec024c6d345",
+    "url": "https://github.com/ntnyq/GitHubTrailData",
+    "title": "ntnyq/GitHubTrailData",
+    "type": "repo",
+    "owner": "ntnyq",
+    "repo": "GitHubTrailData",
+    "path": "/",
+    "visitedAt": 1778807566092,
+    "duration": 7245
+  },
+  {
+    "id": "9bee9f06-4838-4a08-b241-b5f1206f354c",
+    "url": "https://github.com/ntnyq/GitHubTrailData/tree/main/.github-trail/records",
+    "title": "ntnyq/GitHubTrailData",
+    "type": "code",
+    "owner": "ntnyq",
+    "repo": "GitHubTrailData",
+    "path": "/ntnyq/GitHubTrailData/tree/main/.github-trail/records",
+    "visitedAt": 1778807567132
+  },
+  {
+    "id": "b15c9d59-1f13-4a31-8a7b-79bc415280de",
+    "url": "https://github.com/ntnyq/GitHubTrailData/blob/main/.github-trail/records/2026-05.json",
+    "title": "GitHubTrailData/.github-trail/records at main · ntnyq/GitHubTrailData",
+    "type": "code",
+    "owner": "ntnyq",
+    "repo": "GitHubTrailData",
+    "path": "/ntnyq/GitHubTrailData/blob/main/.github-trail/records/2026-05.json",
+    "visitedAt": 1778807568531
+  },
+  {
+    "id": "0def4c3f-fa02-4eca-a96e-dcda3b6cc0fc",
+    "url": "https://github.com/ntnyq?tab=repositories",
+    "title": "Your Repositories",
+    "type": "profile",
+    "owner": "ntnyq",
+    "path": "/ntnyq",
+    "visitedAt": 1778807670201
+  },
+  {
+    "id": "b1dd522a-d7d3-42a0-af54-628606441580",
+    "url": "https://github.com/ntnyq?tab=repositories",
+    "title": "Your Repositories",
+    "type": "profile",
+    "owner": "ntnyq",
+    "path": "/ntnyq",
+    "visitedAt": 1778807678878,
+    "duration": 48234
+  },
+  {
+    "id": "6ef6859b-18e5-4202-a8ad-99a8668a5058",
+    "url": "https://github.com/notifications?query=is%3Aunread",
+    "title": "Notifications",
+    "type": "other",
+    "path": "/notifications",
+    "visitedAt": 1778807683439,
+    "duration": 5667
+  },
+  {
+    "id": "3eb797d9-d54c-464d-9b11-ff84a3ed7529",
+    "url": "https://github.com/ntnyq?tab=repositories",
+    "title": "Your Repositories",
+    "type": "profile",
+    "owner": "ntnyq",
+    "path": "/ntnyq",
+    "visitedAt": 1778807702783,
+    "duration": 229433
+  },
+  {
+    "id": "f4276357-2382-4da5-9f97-e163c40fec2f",
+    "url": "https://github.com/ntnyq?tab=repositories&q=o%27x&type=&language=&sort=",
+    "title": "Your Repositories",
+    "type": "profile",
+    "owner": "ntnyq",
+    "path": "/ntnyq",
+    "visitedAt": 1778807704079
+  },
+  {
+    "id": "0cf6fadf-c343-4d03-bdb7-495cd31a2082",
+    "url": "https://github.com/ntnyq?tab=repositories&q=oxlint&type=&language=&sort=",
+    "title": "Your Repositories",
+    "type": "profile",
+    "owner": "ntnyq",
+    "path": "/ntnyq",
+    "visitedAt": 1778807705433
+  },
+  {
+    "id": "4c049d79-1f83-40c5-adf4-ddcc613eb361",
+    "url": "https://github.com/ntnyq/oxlint-types",
+    "title": "ntnyq/oxlint-types: :package: Strong typed `defineConfig` function support for oxlint.",
+    "type": "repo",
+    "owner": "ntnyq",
+    "repo": "oxlint-types",
+    "path": "/",
+    "visitedAt": 1778807710128,
+    "duration": 9062
+  },
+  {
+    "id": "d3c92d18-902b-4669-aa2e-a0c75ec73a74",
+    "url": "https://github.com/ntnyq/oxlint-types/actions",
+    "title": "ntnyq/oxlint-types: :package: Strong typed `defineConfig` function support for oxlint.",
+    "type": "repo",
+    "owner": "ntnyq",
+    "repo": "oxlint-types",
+    "path": "/ntnyq/oxlint-types/actions",
+    "visitedAt": 1778807712593
+  },
+  {
+    "id": "dc456bba-e7c6-4963-af89-73683e16a334",
+    "url": "https://github.com/ntnyq/oxlint-types/actions/runs/25775588600",
+    "title": "Workflow runs · ntnyq/oxlint-types",
+    "type": "repo",
+    "owner": "ntnyq",
+    "repo": "oxlint-types",
+    "path": "/ntnyq/oxlint-types/actions/runs/25775588600",
+    "visitedAt": 1778807716784
+  },
+  {
+    "id": "bedce97d-fe28-46ec-ad4e-9b6f47821ba3",
+    "url": "https://github.com/ntnyq/oxlint-types/actions/runs/25775588600/job/75707360290",
+    "title": "Rules Generate And Release · ntnyq/oxlint-types@12106b9",
+    "type": "repo",
+    "owner": "ntnyq",
+    "repo": "oxlint-types",
+    "path": "/ntnyq/oxlint-types/actions/runs/25775588600/job/75707360290",
+    "visitedAt": 1778807719301,
+    "duration": 29171
+  },
+  {
+    "id": "c2ae8539-c969-4006-8718-655217f5a0cd",
+    "url": "https://github.com/ntnyq/eslint-plugin-oxfmt",
+    "title": "ntnyq/eslint-plugin-oxfmt: :package: An ESLint plugin for formatting code with oxfmt - A blazing fast formatter powered by Rust.",
+    "type": "repo",
+    "owner": "ntnyq",
+    "repo": "eslint-plugin-oxfmt",
+    "path": "/",
+    "visitedAt": 1778807755269,
+    "duration": 9465
+  },
+  {
+    "id": "753b68bb-44db-4a46-9120-d2a44097db22",
+    "url": "https://github.com/ntnyq/eslint-plugin-oxfmt",
+    "title": "ntnyq/eslint-plugin-oxfmt: :package: An ESLint plugin for formatting code with oxfmt - A blazing fast formatter powered by Rust.",
+    "type": "repo",
+    "owner": "ntnyq",
+    "repo": "eslint-plugin-oxfmt",
+    "path": "/",
+    "visitedAt": 1778807805032,
+    "duration": 90229
+  },
+  {
+    "id": "c2cf656e-dfad-4eea-b7fb-414cb80431ac",
+    "url": "https://github.com/hooray",
+    "title": "hooray (HooRay)",
+    "type": "profile",
+    "owner": "hooray",
+    "path": "/hooray",
+    "visitedAt": 1778808183939,
+    "duration": 23702
+  },
+  {
+    "id": "74574e47-3815-4fa9-b5dc-5e667e8f643a",
+    "url": "https://github.com/ntnyq",
+    "title": "ntnyq (ntnyq)",
+    "type": "profile",
+    "owner": "ntnyq",
+    "path": "/ntnyq",
+    "visitedAt": 1778808207815,
+    "duration": 47954,
+    "isBookmarked": true
+  },
+  {
+    "id": "f3284fa0-242a-4f04-8bab-5f7f2268bea6",
+    "url": "https://github.com/ntnyq",
+    "title": "ntnyq (ntnyq)",
+    "type": "profile",
+    "owner": "ntnyq",
+    "path": "/ntnyq",
+    "visitedAt": 1778808264139,
+    "duration": 52197
+  },
+  {
+    "id": "d7fb1574-1eb8-45e3-a466-de8ff4d895cf",
+    "url": "https://github.com/eslint/eslint",
+    "title": "eslint/eslint: Find and fix problems in your JavaScript code.",
+    "type": "repo",
+    "owner": "eslint",
+    "repo": "eslint",
+    "path": "/",
+    "visitedAt": 1778810714474,
+    "duration": 39649
+  },
+  {
+    "id": "7bbde375-d9f4-4cd6-bc6d-484b80902161",
+    "url": "https://github.com/eslint/eslint/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen+",
+    "title": "eslint/eslint: Find and fix problems in your JavaScript code.",
+    "type": "repo",
+    "owner": "eslint",
+    "repo": "eslint",
+    "path": "/eslint/eslint/issues",
+    "visitedAt": 1778810718623
+  },
+  {
+    "id": "42d2a5b1-a29d-4b20-80ce-1abea933f808",
+    "url": "https://github.com/eslint/eslint/issues/20871",
+    "title": "Change Request: Removal of `is-glob` as part of eslint as a dependency · Issue #20871 · eslint/eslint",
+    "type": "issue",
+    "owner": "eslint",
+    "repo": "eslint",
+    "path": "/eslint/eslint/issues/20871",
+    "visitedAt": 1778810735548,
+    "duration": 21522
+  },
+  {
+    "id": "f2c7afea-0e12-4c32-92e3-77d37328c180",
+    "url": "https://github.com/eslint/eslint/issues/20844",
+    "title": "Bug: False positive in no-unmodified-loop-condition with LogicalExpressions (&&, ||) · Issue #20844 · eslint/eslint",
+    "type": "issue",
+    "owner": "eslint",
+    "repo": "eslint",
+    "path": "/eslint/eslint/issues/20844",
+    "visitedAt": 1778810739642,
+    "duration": 6506
+  },
+  {
+    "id": "139172c4-11ca-4666-90b3-72787f0ec115",
+    "url": "https://github.com/eslint/eslint/issues/20854",
+    "title": "Bug: use-isnan does not detect globalThis.NaN · Issue #20854 · eslint/eslint",
+    "type": "issue",
+    "owner": "eslint",
+    "repo": "eslint",
+    "path": "/eslint/eslint/issues/20854",
+    "visitedAt": 1778810759958,
+    "duration": 12927
+  },
+  {
+    "id": "e4c0acbd-70f9-4a81-b1b0-86c98da127ba",
+    "url": "https://github.com/eslint/eslint/pulls?q=sort%3Aupdated-desc+is%3Apr+is%3Aopen+",
+    "title": "Change Request: Removal of `is-glob` as part of eslint as a dependency · Issue #20871 · eslint/eslint",
+    "type": "repo",
+    "owner": "eslint",
+    "repo": "eslint",
+    "path": "/eslint/eslint/pulls",
+    "visitedAt": 1778810777639
+  },
+  {
+    "id": "0e089ccf-02ba-4443-b15b-b426015edeb4",
+    "url": "https://github.com/eslint/eslint/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen+",
+    "title": "Pull requests · eslint/eslint",
+    "type": "repo",
+    "owner": "eslint",
+    "repo": "eslint",
+    "path": "/eslint/eslint/issues",
+    "visitedAt": 1778810786528
+  },
+  {
+    "id": "07014ba7-0e70-411d-9c17-e80ce1c37f76",
+    "url": "https://github.com/ntnyq/GitHubTrail",
+    "title": "ntnyq/GitHubTrail: :apple: GitHub trail.",
+    "type": "repo",
+    "owner": "ntnyq",
+    "repo": "GitHubTrail",
+    "path": "/",
+    "visitedAt": 1778810834716,
+    "duration": 29699
   }
 ]
