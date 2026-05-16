@@ -1,0 +1,116 @@
+{
+  "year": 2026,
+  "totalRecords": 222,
+  "typeDistribution": {
+    "repo": 61,
+    "issue": 6,
+    "pull": 2,
+    "discussion": 0,
+    "commit": 3,
+    "release": 0,
+    "profile": 33,
+    "org": 0,
+    "code": 92,
+    "gist": 0,
+    "search": 0,
+    "other": 25
+  },
+  "uniqueRepos": 22,
+  "uniqueOwners": 18,
+  "totalDuration": 4323145,
+  "topRepos": [
+    {
+      "owner": "ntnyq",
+      "repo": "GitHubTrailData",
+      "count": 50
+    },
+    {
+      "owner": "mengxi-ream",
+      "repo": "read-frog",
+      "count": 21
+    },
+    {
+      "owner": "ntnyq",
+      "repo": "GitHubTrail",
+      "count": 15
+    },
+    {
+      "owner": "ecomfe",
+      "repo": "vue-echarts",
+      "count": 12
+    },
+    {
+      "owner": "tamasfe",
+      "repo": "taplo",
+      "count": 10
+    },
+    {
+      "owner": "g-plane",
+      "repo": "malva",
+      "count": 7
+    },
+    {
+      "owner": "eslint",
+      "repo": "eslint",
+      "count": 7
+    },
+    {
+      "owner": "dumbmatter",
+      "repo": "fakeIndexedDB",
+      "count": 6
+    },
+    {
+      "owner": "oven-sh",
+      "repo": "bun",
+      "count": 6
+    },
+    {
+      "owner": "pnpm",
+      "repo": "pnpm",
+      "count": 5
+    }
+  ],
+  "topOwners": [
+    {
+      "owner": "ntnyq",
+      "count": 94
+    },
+    {
+      "owner": "mengxi-ream",
+      "count": 21
+    },
+    {
+      "owner": "g-plane",
+      "count": 15
+    },
+    {
+      "owner": "ecomfe",
+      "count": 12
+    },
+    {
+      "owner": "tamasfe",
+      "count": 10
+    },
+    {
+      "owner": "eslint",
+      "count": 7
+    },
+    {
+      "owner": "dumbmatter",
+      "count": 6
+    },
+    {
+      "owner": "oven-sh",
+      "count": 6
+    },
+    {
+      "owner": "aklinker1",
+      "count": 6
+    },
+    {
+      "owner": "pnpm",
+      "count": 5
+    }
+  ],
+  "lastComputedAt": 1778905430283
+}
