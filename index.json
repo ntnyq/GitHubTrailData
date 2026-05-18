@@ -2,7 +2,7 @@
   "version": 1,
   "appVersion": "0.0.0",
   "granularity": "monthly",
-  "lastSyncAt": 1778905429396,
+  "lastSyncAt": 1779101294961,
   "lastOrganizeAt": 0,
   "syncDir": "",
   "files": {
@@ -10,11 +10,11 @@
       "path": "records/2026-05.json",
       "type": "records",
       "period": "2026-05",
-      "recordCount": 222,
+      "recordCount": 447,
       "firstVisitAt": 1778755024336,
-      "lastVisitAt": 1778905362033,
-      "updatedAt": 1778905429396
+      "lastVisitAt": 1779091255122,
+      "updatedAt": 1779101294961
     }
   },
-  "totalRecords": 222
+  "totalRecords": 447
 }
