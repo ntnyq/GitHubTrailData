@@ -2,7 +2,7 @@
   "version": 1,
   "appVersion": "0.0.0",
   "granularity": "monthly",
-  "lastSyncAt": 1779101294961,
+  "lastSyncAt": 1779101383902,
   "lastOrganizeAt": 0,
   "syncDir": "",
   "files": {
@@ -13,7 +13,7 @@
       "recordCount": 447,
       "firstVisitAt": 1778755024336,
       "lastVisitAt": 1779091255122,
-      "updatedAt": 1779101294961
+      "updatedAt": 1779101383902
     }
   },
   "totalRecords": 447
