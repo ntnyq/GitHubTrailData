@@ -8,7 +8,7 @@
     "duration": 5554,
     "owner": "ntnyq",
     "path": "/ntnyq",
-    "syncedAt": 1785220395254
+    "syncedAt": 1785220656642
   },
   {
     "id": "cb07ce13-f6b8-43d9-a044-8ff357376147",
@@ -20,7 +20,7 @@
     "owner": "ntnyq",
     "path": "/",
     "repo": "GitHubTrailData",
-    "syncedAt": 1785220395254
+    "syncedAt": 1785220656642
   },
   {
     "id": "48d8b09f-95c1-41e3-8f40-13cca5a88a91",
@@ -32,7 +32,7 @@
     "owner": "ntnyq",
     "path": "/",
     "repo": "GitHubTrailData",
-    "syncedAt": 1785220395254
+    "syncedAt": 1785220656642
   },
   {
     "id": "fe58b5be-cad1-44c5-ab4f-dca55d2f355b",
@@ -43,7 +43,7 @@
     "owner": "ntnyq",
     "path": "/ntnyq/GitHubTrailData/tree/main/.github-trail",
     "repo": "GitHubTrailData",
-    "syncedAt": 1785220395254
+    "syncedAt": 1785220656642
   },
   {
     "id": "44ebd31f-2a66-4ad9-8e39-3559ac8a94f2",
@@ -54,7 +54,7 @@
     "owner": "ntnyq",
     "path": "/ntnyq/GitHubTrailData/tree/main",
     "repo": "GitHubTrailData",
-    "syncedAt": 1785220395254
+    "syncedAt": 1785220656642
   },
   {
     "id": "ec917164-932e-4035-935f-f7cc0523a0e3",
@@ -66,7 +66,7 @@
     "owner": "ntnyq",
     "path": "/ntnyq/GitHubTrailData/tree/main",
     "repo": "GitHubTrailData",
-    "syncedAt": 1785220395254
+    "syncedAt": 1785220656642
   },
   {
     "id": "23e8676a-58e4-4955-8067-bcde3872abd6",
@@ -77,7 +77,7 @@
     "owner": "ntnyq",
     "path": "/ntnyq/GitHubTrailData/commits/main/",
     "repo": "GitHubTrailData",
-    "syncedAt": 1785220395254
+    "syncedAt": 1785220656642
   },
   {
     "id": "bebd8f5d-7347-4ac3-8761-0372fedb275d",
@@ -88,7 +88,7 @@
     "owner": "ntnyq",
     "path": "/ntnyq/GitHubTrailData/commit/9399e99f59c82f6456987328e11467dfa77d7b72",
     "repo": "GitHubTrailData",
-    "syncedAt": 1785220395254
+    "syncedAt": 1785220656642
   },
   {
     "id": "6d16be33-1cc1-40f2-a161-9197ab82e752",
@@ -100,46 +100,151 @@
     "owner": "ntnyq",
     "path": "/",
     "repo": "GitHubTrailData",
-    "syncedAt": 1785220395254
+    "syncedAt": 1785220656642
   },
   {
     "id": "9d489eda-7e23-4ae6-8727-b667d76b5c43",
-    "url": "https://github.com/ntnyq/GitHubTrailData",
     "title": "ntnyq/GitHubTrailData",
     "type": "repo",
-    "owner": "ntnyq",
-    "repo": "GitHubTrailData",
-    "path": "/",
+    "url": "https://github.com/ntnyq/GitHubTrailData",
     "visitedAt": 1785220600023,
-    "duration": 22502
+    "duration": 22502,
+    "owner": "ntnyq",
+    "path": "/",
+    "repo": "GitHubTrailData",
+    "syncedAt": 1785220656642
   },
   {
     "id": "37a52233-ab74-4ff6-9d92-e309528abb57",
-    "url": "https://github.com/ntnyq",
     "title": "ntnyq (ntnyq)",
     "type": "profile",
+    "url": "https://github.com/ntnyq",
+    "visitedAt": 1785220601029,
+    "duration": 12093,
     "owner": "ntnyq",
     "path": "/ntnyq",
-    "visitedAt": 1785220601029,
-    "duration": 12093
+    "syncedAt": 1785220656642
   },
   {
     "id": "fc2b3b1a-053c-4211-b777-20c3579f6421",
-    "url": "https://github.com/ntnyq/GitHubTrailData/tree/main/.github-trail",
     "title": "ntnyq/GitHubTrailData",
     "type": "code",
+    "url": "https://github.com/ntnyq/GitHubTrailData/tree/main/.github-trail",
+    "visitedAt": 1785220619466,
     "owner": "ntnyq",
-    "repo": "GitHubTrailData",
     "path": "/ntnyq/GitHubTrailData/tree/main/.github-trail",
-    "visitedAt": 1785220619466
+    "repo": "GitHubTrailData",
+    "syncedAt": 1785220656642
   },
   {
     "id": "85351f6f-ba50-47a5-abe8-4ac25c492737",
-    "url": "https://github.com/notifications?query=is%3Aunread",
     "title": "Notifications",
     "type": "reserved",
-    "path": "/notifications",
+    "url": "https://github.com/notifications?query=is%3Aunread",
     "visitedAt": 1785220625051,
-    "duration": 2985
+    "duration": 2985,
+    "path": "/notifications",
+    "syncedAt": 1785220656642
+  },
+  {
+    "id": "0fb5cc80-580d-449c-9470-0adda28ce37e",
+    "url": "https://github.com/fontmin-rs/fontmin-rs/compare/main...main",
+    "title": "Comparing main...main · fontmin-rs/fontmin-rs",
+    "type": "repo",
+    "owner": "fontmin-rs",
+    "repo": "fontmin-rs",
+    "path": "/fontmin-rs/fontmin-rs/compare/main...main",
+    "visitedAt": 1785221083473,
+    "duration": 60002
+  },
+  {
+    "id": "b1b09fe4-adc3-4323-91fd-4c954dcab9fb",
+    "url": "https://github.com/fontmin-rs/fontmin-rs",
+    "title": "Comparing main...main · fontmin-rs/fontmin-rs",
+    "type": "repo",
+    "owner": "fontmin-rs",
+    "repo": "fontmin-rs",
+    "path": "/",
+    "visitedAt": 1785221086260
+  },
+  {
+    "id": "6c014864-daa4-4dd2-944f-c051b08624fc",
+    "url": "https://github.com/fontmin-rs/fontmin-rs/commits/main/",
+    "title": "fontmin-rs/fontmin-rs: :crab: Fast font subsetter and converter written in Rust with Node.js bindings.",
+    "type": "commit",
+    "owner": "fontmin-rs",
+    "repo": "fontmin-rs",
+    "path": "/fontmin-rs/fontmin-rs/commits/main/",
+    "visitedAt": 1785221090200
+  },
+  {
+    "id": "2c77b98e-01c3-42e4-a022-2a0612c3e4e5",
+    "url": "https://github.com/fontmin-rs/fontmin-rs",
+    "title": "Commits · fontmin-rs/fontmin-rs",
+    "type": "repo",
+    "owner": "fontmin-rs",
+    "repo": "fontmin-rs",
+    "path": "/",
+    "visitedAt": 1785221107233
+  },
+  {
+    "id": "9cfdf829-8d10-4dd9-a5ad-62c4f6d71c2d",
+    "url": "https://github.com/fontmin-rs/fontmin-rs/releases",
+    "title": "fontmin-rs/fontmin-rs: :crab: Fast font subsetter and converter written in Rust with Node.js bindings.",
+    "type": "repo",
+    "owner": "fontmin-rs",
+    "repo": "fontmin-rs",
+    "path": "/fontmin-rs/fontmin-rs/releases",
+    "visitedAt": 1785221111150
+  },
+  {
+    "id": "a9201aab-c82a-4633-871c-3f5461f874df",
+    "url": "https://github.com/fontmin-rs/fontmin-rs",
+    "title": "Releases · fontmin-rs/fontmin-rs",
+    "type": "repo",
+    "owner": "fontmin-rs",
+    "repo": "fontmin-rs",
+    "path": "/",
+    "visitedAt": 1785221117627
+  },
+  {
+    "id": "af706a32-e0f3-4b1e-88c9-7b8856609ed7",
+    "url": "https://github.com/fontmin-rs/fontmin-rs/tree/main/fixtures",
+    "title": "fontmin-rs/fontmin-rs: :crab: Fast font subsetter and converter written in Rust with Node.js bindings.",
+    "type": "code",
+    "owner": "fontmin-rs",
+    "repo": "fontmin-rs",
+    "path": "/fontmin-rs/fontmin-rs/tree/main/fixtures",
+    "visitedAt": 1785221127712
+  },
+  {
+    "id": "bd0927e9-0a22-4c6f-939a-fe3bd7852c2c",
+    "url": "https://github.com/fontmin-rs/fontmin-rs/tree/main/fixtures/malformed",
+    "title": "fontmin-rs/fixtures at main · fontmin-rs/fontmin-rs",
+    "type": "code",
+    "owner": "fontmin-rs",
+    "repo": "fontmin-rs",
+    "path": "/fontmin-rs/fontmin-rs/tree/main/fixtures/malformed",
+    "visitedAt": 1785221129641
+  },
+  {
+    "id": "021adb8e-23f8-4f95-9102-fde81147d0e2",
+    "url": "https://github.com/fontmin-rs/fontmin-rs/tree/main/fixtures",
+    "title": "fontmin-rs/fixtures/malformed at main · fontmin-rs/fontmin-rs",
+    "type": "code",
+    "owner": "fontmin-rs",
+    "repo": "fontmin-rs",
+    "path": "/fontmin-rs/fontmin-rs/tree/main/fixtures",
+    "visitedAt": 1785221145589
+  },
+  {
+    "id": "92613f01-08b9-4deb-af79-2ba4745f1eb0",
+    "url": "https://github.com/fontmin-rs/fontmin-rs/tree/main/fixtures/fonts",
+    "title": "fontmin-rs/fixtures at main · fontmin-rs/fontmin-rs",
+    "type": "code",
+    "owner": "fontmin-rs",
+    "repo": "fontmin-rs",
+    "path": "/fontmin-rs/fontmin-rs/tree/main/fixtures/fonts",
+    "visitedAt": 1785221147410
   }
 ]
