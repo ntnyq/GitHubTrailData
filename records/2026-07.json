@@ -8,7 +8,7 @@
     "duration": 5554,
     "owner": "ntnyq",
     "path": "/ntnyq",
-    "syncedAt": 1785219456408
+    "syncedAt": 1785220395254
   },
   {
     "id": "cb07ce13-f6b8-43d9-a044-8ff357376147",
@@ -20,7 +20,7 @@
     "owner": "ntnyq",
     "path": "/",
     "repo": "GitHubTrailData",
-    "syncedAt": 1785219456408
+    "syncedAt": 1785220395254
   },
   {
     "id": "48d8b09f-95c1-41e3-8f40-13cca5a88a91",
@@ -32,7 +32,7 @@
     "owner": "ntnyq",
     "path": "/",
     "repo": "GitHubTrailData",
-    "syncedAt": 1785219456408
+    "syncedAt": 1785220395254
   },
   {
     "id": "fe58b5be-cad1-44c5-ab4f-dca55d2f355b",
@@ -43,7 +43,7 @@
     "owner": "ntnyq",
     "path": "/ntnyq/GitHubTrailData/tree/main/.github-trail",
     "repo": "GitHubTrailData",
-    "syncedAt": 1785219456408
+    "syncedAt": 1785220395254
   },
   {
     "id": "44ebd31f-2a66-4ad9-8e39-3559ac8a94f2",
@@ -54,49 +54,92 @@
     "owner": "ntnyq",
     "path": "/ntnyq/GitHubTrailData/tree/main",
     "repo": "GitHubTrailData",
-    "syncedAt": 1785219456408
+    "syncedAt": 1785220395254
   },
   {
     "id": "ec917164-932e-4035-935f-f7cc0523a0e3",
-    "url": "https://github.com/ntnyq/GitHubTrailData/tree/main",
     "title": "ntnyq/GitHubTrailData",
     "type": "code",
-    "owner": "ntnyq",
-    "repo": "GitHubTrailData",
-    "path": "/ntnyq/GitHubTrailData/tree/main",
+    "url": "https://github.com/ntnyq/GitHubTrailData/tree/main",
     "visitedAt": 1785219455776,
-    "syncedAt": 1785219456408,
-    "duration": 20094
+    "duration": 20094,
+    "owner": "ntnyq",
+    "path": "/ntnyq/GitHubTrailData/tree/main",
+    "repo": "GitHubTrailData",
+    "syncedAt": 1785220395254
   },
   {
     "id": "23e8676a-58e4-4955-8067-bcde3872abd6",
-    "url": "https://github.com/ntnyq/GitHubTrailData/commits/main/",
     "title": "ntnyq/GitHubTrailData",
     "type": "commit",
+    "url": "https://github.com/ntnyq/GitHubTrailData/commits/main/",
+    "visitedAt": 1785219458149,
     "owner": "ntnyq",
-    "repo": "GitHubTrailData",
     "path": "/ntnyq/GitHubTrailData/commits/main/",
-    "visitedAt": 1785219458149
+    "repo": "GitHubTrailData",
+    "syncedAt": 1785220395254
   },
   {
     "id": "bebd8f5d-7347-4ac3-8761-0372fedb275d",
-    "url": "https://github.com/ntnyq/GitHubTrailData/commit/9399e99f59c82f6456987328e11467dfa77d7b72",
     "title": "Commits · ntnyq/GitHubTrailData",
     "type": "commit",
+    "url": "https://github.com/ntnyq/GitHubTrailData/commit/9399e99f59c82f6456987328e11467dfa77d7b72",
+    "visitedAt": 1785219460688,
     "owner": "ntnyq",
-    "repo": "GitHubTrailData",
     "path": "/ntnyq/GitHubTrailData/commit/9399e99f59c82f6456987328e11467dfa77d7b72",
-    "visitedAt": 1785219460688
+    "repo": "GitHubTrailData",
+    "syncedAt": 1785220395254
   },
   {
     "id": "6d16be33-1cc1-40f2-a161-9197ab82e752",
+    "title": "ntnyq/GitHubTrailData",
+    "type": "repo",
+    "url": "https://github.com/ntnyq/GitHubTrailData",
+    "visitedAt": 1785219507616,
+    "duration": 2260,
+    "owner": "ntnyq",
+    "path": "/",
+    "repo": "GitHubTrailData",
+    "syncedAt": 1785220395254
+  },
+  {
+    "id": "9d489eda-7e23-4ae6-8727-b667d76b5c43",
     "url": "https://github.com/ntnyq/GitHubTrailData",
     "title": "ntnyq/GitHubTrailData",
     "type": "repo",
     "owner": "ntnyq",
     "repo": "GitHubTrailData",
     "path": "/",
-    "visitedAt": 1785219507616,
-    "duration": 2260
+    "visitedAt": 1785220600023,
+    "duration": 22502
+  },
+  {
+    "id": "37a52233-ab74-4ff6-9d92-e309528abb57",
+    "url": "https://github.com/ntnyq",
+    "title": "ntnyq (ntnyq)",
+    "type": "profile",
+    "owner": "ntnyq",
+    "path": "/ntnyq",
+    "visitedAt": 1785220601029,
+    "duration": 12093
+  },
+  {
+    "id": "fc2b3b1a-053c-4211-b777-20c3579f6421",
+    "url": "https://github.com/ntnyq/GitHubTrailData/tree/main/.github-trail",
+    "title": "ntnyq/GitHubTrailData",
+    "type": "code",
+    "owner": "ntnyq",
+    "repo": "GitHubTrailData",
+    "path": "/ntnyq/GitHubTrailData/tree/main/.github-trail",
+    "visitedAt": 1785220619466
+  },
+  {
+    "id": "85351f6f-ba50-47a5-abe8-4ac25c492737",
+    "url": "https://github.com/notifications?query=is%3Aunread",
+    "title": "Notifications",
+    "type": "reserved",
+    "path": "/notifications",
+    "visitedAt": 1785220625051,
+    "duration": 2985
   }
 ]
